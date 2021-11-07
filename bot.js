@@ -10,11 +10,11 @@
         if(msg.content.startsWith(settings.prefix+'test')){
             msg.channel.send('test committed') ;
         }
-        if(msg.content.startsWith(settings.prefix+'HI')){
-            msg.channel.send('你也好~') ;
+        if(msg.content.startsWith(settings.prefix+'tel')){
+            msg.channel.send('0976') ;
         }
         if(msg.content.startsWith(settings.prefix+'OK')){
-            msg.channel.send('甚麼OK?') ;
+            msg.channel.send('OK?') ;
         }
     }) ;
 
