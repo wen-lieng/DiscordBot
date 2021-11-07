@@ -10,7 +10,7 @@
         if(msg.content.startsWith(settings.prefix+'test')){
             msg.channel.send('test committed') ;
         }
-        if(msg.content.startsWith(settings.prefix+'HI~')){
+        if(msg.content.startsWith(settings.prefix+'HI')){
             msg.channel.send('你也好~') ;
         }
         if(msg.content.startsWith(settings.prefix+'OK')){
